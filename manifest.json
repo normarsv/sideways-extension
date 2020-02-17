@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "Sideways Websites",
+  "description": "This extension will help our team to find website urls",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "images/sideways.png",
+    "default_popup": "index.html"
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}
